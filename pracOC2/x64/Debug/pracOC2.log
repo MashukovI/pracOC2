@@ -1,0 +1,4 @@
+﻿  pracOC2.cpp
+D:\К\Prac\TRPO-Practic\pracOC2\pracOC2\pracOC2.cpp(233,59): warning C4311: приведение типов: усечение указателя из "HMENU" в "UINT"
+D:\К\Prac\TRPO-Practic\pracOC2\pracOC2\pracOC2.cpp(233,59): warning C4302: приведение типов: усечение из "HMENU" к "UINT"
+  pracOC2.vcxproj -> D:\К\Prac\TRPO-Practic\pracOC2\x64\Debug\pracOC2.exe
